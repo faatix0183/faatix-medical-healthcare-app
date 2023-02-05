@@ -1,4 +1,4 @@
-# mcalapp
+# medical healthcare app
 
 A new Flutter project.
 
